@@ -6,6 +6,11 @@ This repository will be a custom backend template for passcodes. You can use thi
 
 ## Getting Started
 
+> [!NOTE]
+> There are multiple ways to get started.. or install this server.. look into [**installion.md**](installation.md) file in this repository.
+>
+> The Github standard process is listed here. (best for developers)
+
 - Clone The Repository
 
     ```bash
