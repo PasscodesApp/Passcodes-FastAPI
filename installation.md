@@ -57,7 +57,7 @@ There are multiple ways for installation & running the server.
 - Simple & easy for test & expirement.
 - Little bit complicated to update i guess.
 
-**Prerequisites**: `UV (package manager)` & `Git`.
+**Prerequisites**: `Zero Prerequisites`.
 
 1) Download the executable form the GitHub Release page.
 2) Ignore the warning from the windows defender or antivirus provider.
